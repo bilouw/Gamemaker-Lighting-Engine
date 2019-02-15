@@ -57,6 +57,12 @@ The Engine can be improved. Static lights are pretty optimized, but dynamics one
 
 - Optimize the calcul of shadows for dynamics lights.
 
+- To use RGBA channel to draw 4 lights mask per surface (more efficient) and to can make shadows more complex and realistic. 
+
+Here a link of Celeste's creator that explain how lights works in Celeste : https://medium.com/@NoelFB/remaking-celestes-lighting-3478d6f10bf 
+
+In the last part, the optimization i talked ealier is a little bit explained. Also, it's a pretty good explanation on how this engine works too, because i followed most of this method.
+
 You can also take this project as a base to start, then make your own functionality to make the engine better for you. I hope it will be helpful.
 
 ## Credits :
