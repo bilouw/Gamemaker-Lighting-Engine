@@ -2,7 +2,7 @@
 
 ![](GLE.gif)
 
-Tiles based Lighting Engine that projects shadows with raycasting.
+Tiles based Lighting Engine that projects shadows.
 
  The shadows projection is based on a tutorial by Mike Dailly that can be found here : [https://www.yoyogames.com/blog/419/realtime-2d-lighting-in-gamemaker-studio-2-part-1](https://www.yoyogames.com/blog/419/realtime-2d-lighting-in-gamemaker-studio-2-part-1?fbclid=IwAR3RysnCli5LjJS5s3Y9ZbQFEAbvlA1_QC-GVmozdKdm7r0sIFDs1fFKSzA). Thanks to him because it is the most difficult part if you’re not so good at maths.  
  
@@ -11,7 +11,7 @@ Once the shadows are casted, I use a pretty common method to draw the shadows on
 It is not the most impressive light engine, but a good way to start with dynamic light development (which is pretty complex). Also, it can make a pretty good job in 2D games (mostly pixel art) to create some atmosphere and add volume to your scene.
   
 
-## USING GLE
+## Usage
 
   
 
@@ -67,7 +67,7 @@ You can also take this project as a base to start, then make your own functional
 
 ## Credits :
 
-Mike Dailly : For his tutorial on shadows raycasting   https://www.yoyogames.com/blog/419/realtime-2d-lighting-in-gamemaker-studio-2-part-1
+Mike Dailly : For his tutorial on shadows projection https://www.yoyogames.com/blog/419/realtime-2d-lighting-in-gamemaker-studio-2-part-1
 
 Adam Saltsman : For his free asset pack that i used for this project : https://adamatomic.itch.io/
 
