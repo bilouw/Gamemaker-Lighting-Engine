@@ -49,7 +49,7 @@ To add tilemap, go in the « o_light_handler » and add the tilemap id in the «
 
 ### Improvements :
 
-The Engine can be improved. Static lights are pretty optimized, but dynamic ones can be even more. Below, some improvement that I might do in the future (I use this engine in my game development) :
+The Engine can be improved. Static lights are pretty optimized, but dynamics ones can be heavy to calculate. To improve this, just use static lights when you can,  minimize the dynamics light number and radius, or do some improvements (like calcul only dynamics lights present in camera). Below, some improvement that I might do in the future (I use this engine in my game development) :
 
 - Add some color to the light (easy to do, you can do it yourself)
 
